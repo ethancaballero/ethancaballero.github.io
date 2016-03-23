@@ -1,1 +1,1 @@
-Source Code for Personal Website.
+Source code for personal academic webpage.
